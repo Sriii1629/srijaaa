@@ -91,7 +91,6 @@ I enjoy turning ideas into functional web applications and continuously learning
 ---
 
 ### 🐍 Fun Touch
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sriii1629/Sriii1629/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Sriii1629/Sriii1629/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
